@@ -1,6 +1,7 @@
 # Verificador de Similaridade de Textos
 
-**Aluno:** Júlia de Oliveira Pestana 
+**Aluno:** Júlia de Oliveira Pestana
+
 **Disciplina:** Estrutura de Dados II
 
 ## Como o projeto funciona
