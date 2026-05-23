@@ -1,0 +1,18 @@
+# Compilados Java
+*.class
+
+# Saída do programa
+resultado.txt
+src/resultado.txt
+
+# Pastas de build
+bin/
+out/
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# macOS
+.DS_Store

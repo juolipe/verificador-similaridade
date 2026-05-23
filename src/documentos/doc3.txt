@@ -1,0 +1,1 @@
+Programação orientada a objetos organiza o código em classes e objetos. Linguagens como Java e Python são amplamente usadas no desenvolvimento de software. Boas práticas de programação incluem documentação e testes automatizados.

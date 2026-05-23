@@ -1,0 +1,1 @@
+Ciência da computação estuda algoritmos e estruturas de dados. Tabelas hash permitem busca eficiente com complexidade média constante. Árvores AVL mantêm dados ordenados com balanceamento automático.

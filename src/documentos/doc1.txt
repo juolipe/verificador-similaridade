@@ -1,0 +1,1 @@
+Estrutura de dados é fundamental para a ciência da computação. Algoritmos eficientes dependem de boas estruturas de dados como árvores grafos e tabelas hash. A complexidade de um algoritmo é medida pelo tempo e espaço que ele consome.
