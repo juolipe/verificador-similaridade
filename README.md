@@ -1,6 +1,6 @@
 # Verificador de Similaridade de Textos
 
-**Aluno:** Júlia de Oliveira Pestana  
+**AlunoS:** Iago Guedes Covelli, Júlia de Oliveira Pestana e Lucas Tanganelli Sposito 
 **Disciplina:** Estrutura de Dados II   
 **Semestre:** 2026/1  
 
